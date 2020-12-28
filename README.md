@@ -32,3 +32,7 @@ An IP Multicast model has been implemented socket programming in c.
   - For pause operation, press `p` on the terminal receiving the data. It acts as a keyboard interrupt.
   - For restart, press `r` on the terminal.
   - Also, do change the interface name in code according to machine (Use `ifconfig` command).
+
+# Author
++ [Dhruvil Dave](https://github.com/dhruvildave/)
++ [Dhatri Kapuriya](https://github.com/dhatrikapuriya)
